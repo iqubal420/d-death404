@@ -1,7 +1,5 @@
-#!/usr/bin/perl
- 
-use IO::Socket; 
- 
+#!/usr/bin/perl 
+
 ###
 # Amnesia DDoS Script
 ###
