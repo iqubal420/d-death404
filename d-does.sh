@@ -11,7 +11,7 @@ red='\033[31;1m'
 white='\033[37;1m'                                           
 yellow='\033[33;1m'
 clear
-toilet -f standard "•⊱•iqubal420" -F gay
+toilet -f standard "•⊱•SARKAR" -F gay
 echo
 echo $green"=========================================="
 echo $red"DoS AND DDoS ATTACK LAUCH VIA TOOL •⊱•IQUBAL SARKAR"
